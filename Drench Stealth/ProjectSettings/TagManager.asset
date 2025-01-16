@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Freeze
+  - Lift
+  - Enemy
+  - testing
+  - Hiding
+  - Water Puddle
+  - Boiling Cloud
+  - Ground
+  - Moving Platform
+  - Audio
+  - Dead Zone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Hiding
+  - Cloud
+  - Enemy
+  - Item
+  - Enemy Camera
+  - Drain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 999711569
+    locked: 0
+  - name: 2
+    uniqueID: 4145802599
+    locked: 0
+  - name: 3
+    uniqueID: 57049475
+    locked: 0
+  - name: 4
+    uniqueID: 2901017099
+    locked: 0
+  - name: 5
+    uniqueID: 1579317785
+    locked: 0
